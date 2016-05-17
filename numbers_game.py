@@ -1,5 +1,8 @@
 import random
 
+# This is a random number guessing game
+# Created using the Treehouse Python Basics course
+
 def game():
     # generate a random number between 1 and 10
     secret_num = random.randint(1, 10)
